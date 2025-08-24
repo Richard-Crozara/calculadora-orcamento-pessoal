@@ -1,7 +1,7 @@
 # Calculadora de Orçamento Pessoal 💰
 
 Este projeto é uma aplicação simples que tem como objetivo ajudar o usuário a registrar despesas e visualizar um resumo mensal.
-
+ 
 ## 🎯 Objetivo
 Praticar conceitos de desenvolvimento web e lógica de programação aplicados a um projeto real.
 
